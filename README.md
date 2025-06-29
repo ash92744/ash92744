@@ -10,14 +10,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 B.Tech (Hons.) in Computer Science & Engineering (AI & ML) @ *G.L. Bajaj Institute of Technology and Management, Greater Noida*  
-- 📈 CGPA: **8.2 (avg)** | Intermediate: **77%** | High School: **84%**
-- 💻 Skilled in **MERN stack, Firebase, Gemini AI, Python, C/C++, Java, SQL**
-- 🧠 Strong understanding of **AI/ML, DBMS, DSA, Networking, Web Dev**
-- 🏆 Winner & finalist in **multiple hackathons** including IIIT Delhi & GL Bajaj
-- 💬 Open to collaborations on full-stack, AI/ML, or design-driven projects
+- B.Tech (Hons.) in Computer Science & Engineering (AI & ML) @ *G.L. Bajaj Institute of Technology and Management, Greater Noida*  
+- CGPA: **8.2 (avg)** | Intermediate: **77%** | High School: **84%**
+- Skilled in **MERN stack, Firebase, Gemini AI, Python, C/C++, Java, SQL**
+- Strong understanding of **AI/ML, DBMS, DSA, Networking, Web Dev**
+- Winner & finalist in **multiple hackathons** including IIIT Delhi & GL Bajaj
+- Open to collaborations on full-stack, AI/ML, or design-driven projects
 
 ---
 
@@ -53,29 +53,29 @@
 
 ---
 
-### 🧠 My Projects
+### My Projects
 
 | Project        | Tech Stack | Highlights |
 |----------------|------------|------------|
-| 🌐 [AshGuard](https://enchantress-ashguard.vercel.app/) | React, Firebase, Gemini AI, Python | Women’s safety app with SOS, chatbot, ML route planner |
-| 🧭 [AI Trip Planner](https://enchantress-trips-planner.vercel.app/) | React, Firebase, Gemini AI | AI itinerary with lodging, meals, & safety integration |
-| 🤖 [Enchantress Chatbot](https://enchantress-chat-bot.vercel.app/) | React, AI | Intelligent NLP assistant for task support |
-| 🏫 [School Website](https://adarsh-inter-college.vercel.app/) | HTML, CSS, JS | Static responsive site for school portal |
-| 🐍 Snake Riddle Game | Python, PyGame | Puzzle-based logic game |
+| [AshGuard](https://enchantress-ashguard.vercel.app/) | React, Firebase, Gemini AI, Python | Women’s safety app with SOS, chatbot, ML route planner |
+| [AI Trip Planner](https://enchantress-trips-planner.vercel.app/) | React, Firebase, Gemini AI | AI itinerary with lodging, meals, & safety integration |
+| [Enchantress Chatbot](https://enchantress-chat-bot.vercel.app/) | React, AI | Intelligent NLP assistant for task support |
+| [School Website](https://adarsh-inter-college.vercel.app/) | HTML, CSS, JS | Static responsive site for school portal |
+| Snake Riddle Game | Python, PyGame | Puzzle-based logic game |
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
-- 🥈 **Runner-up**, IIIT Delhi Hackathon (Hack for Impact)
-- ✅ **AshGuard selected** for Bharat Shiksha 3-Day Expo
-- 🎨 Winner – *Pixel Kala (Design)* @ GL Bajaj
-- 🖼 Winner – *Hybrid Horizon (Art Hackathon)* @ GL Bajaj
-- 🏆 Winner – *Yukti: Projects Clash* @ GL Bajaj
+- **Runner-up**, IIIT Delhi Hackathon (Hack for Impact)
+- **AshGuard selected** for Bharat Shiksha 3-Day Expo
+- Winner – *Pixel Kala (Design)* @ GL Bajaj
+- Winner – *Hybrid Horizon (Art Hackathon)* @ GL Bajaj
+- Winner – *Yukti: Projects Clash* @ GL Bajaj
 
 ---
 
-### 📚 Certifications
+### Certifications
 
 - Java, Python, AI/ML – *Infosys, Coursera, ICT Academy*
 - DBMS, Networking, Bootstrap – *Springboard, ICT Academy*
@@ -83,7 +83,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ash92744&theme=tokyonight&show_icons=true" width="48%" />
@@ -92,7 +92,7 @@
 
 ---
 
-### 🧩 GitHub Contributions
+### GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ash92744&theme=react-dark" />
@@ -100,7 +100,7 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
+### Snake Eating My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ash92744/ash92744/output/github-contribution-grid-snake.svg" alt="snake animation"/>
@@ -108,7 +108,7 @@
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="mailto:ash92744@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
