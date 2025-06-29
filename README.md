@@ -1,11 +1,11 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/62d5e37d7b55533a96b7bde4d6bcc5143072a83014ecd4989b1cae3e7f32c6a4/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arsh+Chaudhary;Aspiring+Software+Developer;Full+Stack+Developer+%7C+MERN+%7C+Firebase;React+%7C+Node.js+%7C+Gemini+AI+%7C+ML;AI+%7C+DBMS+%7C+DSA+%7C+Networking;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation">
 </p>
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExODczMTQsIm5iZiI6MTc1MTE4NzAxNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDA4NTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZjQ3YjJhYzQwOTAwNTNhNGIxNzY4MTAyOTdiMDVkYzA5MzlmOGYwMmFhNTBmNGQyNjY0ZGQwNzBlNGQxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xu2RcO9mrpVl55A8StmSYZp7JtujDkNs0JyQCh7YYO8" width="100%" height="auto" />
+  <img src="https://camo.githubusercontent.com/62d5e37d7b55533a96b7bde4d6bcc5143072a83014ecd4989b1cae3e7f32c6a4/68747470733a2f2f7777772e736576656e73746172776562736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f7468656d65732f736576656e737461722f696d672f62616e6e65722d62672e676966" width="100%" height="auto" />
 </p>
 
 ---
