@@ -1,13 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arsh+Chaudhary;Aspiring+Software+Developer;Full+Stack+Developer+%7C+MERN+%7C+Firebase;React+%7C+Node.js+%7C+Gemini+AI+%7C+ML;AI+%7C+DBMS+%7C+DSA+%7C+Networking;Welcome+to+my+GitHub+Profile!+🚀" alt="Typing Animation">
-</p>
-
-<!-- Hero Banner -->
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30%" height="auto">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30%" height="auto">
-   <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExODczMTQsIm5iZiI6MTc1MTE4NzAxNCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDA4NTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxZDY2NDMyMTA0ODJhMGRjMjc4MDhlNWZkNGE5YzdjNWY1Mzg4ODZlZGIwZWUwMDU1OGNkNzU3OTMyMzEyNzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5fexWn1pzX_ql4DYLB5OGeCR6JG55NZ28weimaX75dA" width="30%" height="auto">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" height="auto">
 </p>
 
 ---
