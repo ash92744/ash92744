@@ -5,7 +5,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRkMm14M3QxcjJmZnl3NnBkangwdHQ1ZHMwMWpzZW81N3NycTRjeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fNFfDeyLA20x4c0DmR/giphy.gif" width="100%" height="auto">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" height="auto">
 </p>
 
 ---
