@@ -5,7 +5,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" height="auto" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTExODczMTQsIm5iZiI6MTc1MTE4NzAxNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI5VDA4NTAxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkZjQ3YjJhYzQwOTAwNTNhNGIxNzY4MTAyOTdiMDVkYzA5MzlmOGYwMmFhNTBmNGQyNjY0ZGQwNzBlNGQxZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xu2RcO9mrpVl55A8StmSYZp7JtujDkNs0JyQCh7YYO8" width="100%" height="auto" />
 </p>
 
 ---
