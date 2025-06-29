@@ -23,7 +23,9 @@
 - Winner & finalist in **multiple hackathons** including IIIT Delhi & GL Bajaj
 - Open to collaborations on full-stack, AI/ML, or design-driven projects
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Tech Stack
 
@@ -55,7 +57,9 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### My Projects
 
@@ -67,7 +71,9 @@
 | [School Website](https://adarsh-inter-college.vercel.app/) | HTML, CSS, JS | Static responsive site for school portal |
 | Snake Riddle Game | Python, PyGame | Puzzle-based logic game |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Experience
 
@@ -78,7 +84,9 @@
  - Networking Cloud Virtual Internship – **Juniper Networks**
  - Graphic Designing Virtual Internship – **Skill Intern India**
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Achievements
 
@@ -88,7 +96,9 @@
 - **Winner** – *Hybrid Horizon (Art Hackathon)* @ GL Bajaj
 - **Winner** – *Yukti: Projects Clash* @ GL Bajaj
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Certifications
 
@@ -96,7 +106,9 @@
 - DBMS, Networking, Bootstrap – *Springboard, ICT Academy*
 - Human-Centered Design, Algorithmic Toolbox – *Coursera*
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### GitHub Stats
 
@@ -105,7 +117,9 @@
   <img src="https://streak-stats.demolab.com/?user=ash92744&theme=tokyonight" width="48%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### GitHub Contributions
 
@@ -113,7 +127,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ash92744&theme=react-dark" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Snake Eating My Contributions
 
@@ -121,7 +137,9 @@
   <img src="https://raw.githubusercontent.com/ash92744/ash92744/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="auto" />
+</p>
 
 ### Let's Connect!
 
@@ -131,5 +149,3 @@
   <a href="https://github.com/ash92744"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://arshchaudhary.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
----
