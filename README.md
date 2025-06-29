@@ -5,7 +5,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="[https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVwemV3NnV4Yno1YWMxa28yNXpoN291Z2E5a2wybnUzdzY4ZTdocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)" width="100%" height="auto" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNrbWl6Mm1ieGJwZzNmNmdvc2pmYmgweTU2M2RiNXZidGkwcHF1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpGRoqJXTqv4f1mrJb/giphy.gif" width="100%" height="auto" />
 </p>
 
 ---
