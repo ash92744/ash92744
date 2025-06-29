@@ -12,7 +12,7 @@
 
 ### About Me
 
-- B.Tech (Hons.) in Computer Science & Engineering (AI & ML) @ *G.L. Bajaj Institute of Technology and Management, Greater Noida*  
+- **B.Tech (Hons.)** in Computer Science & Engineering (AI & ML) @ *G.L. Bajaj Institute of Technology and Management, Greater Noida*  
 - CGPA: **8.2 (avg)** | Intermediate: **77%** | High School: **84%**
 - Skilled in **MERN stack, Firebase, Gemini AI, Python, C/C++, Java, SQL**
 - Strong understanding of **AI/ML, DBMS, DSA, Networking, Web Dev**
@@ -65,13 +65,24 @@
 
 ---
 
+### Experience
+
+ - Cloud Computing Virtual Internship- **AWS**
+ - AI-ML Virtual Internship – **Google for Developers**
+ - Web Development Virtual Internship – **Skill Intern India**
+ - Business Analyst Virtual Internship – **Celonis**
+ - Networking Cloud Virtual Internship – **Juniper Networks**
+ - Graphic Designing Virtual Internship – **Skill Intern India**
+
+---
+
 ### Achievements
 
 - **Runner-up**, IIIT Delhi Hackathon (Hack for Impact)
 - **AshGuard selected** for Bharat Shiksha 3-Day Expo
-- Winner – *Pixel Kala (Design)* @ GL Bajaj
-- Winner – *Hybrid Horizon (Art Hackathon)* @ GL Bajaj
-- Winner – *Yukti: Projects Clash* @ GL Bajaj
+- **Winner** – *Pixel Kala (Design)* @ GL Bajaj
+- **Winner** – *Hybrid Horizon (Art Hackathon)* @ GL Bajaj
+- **Winner** – *Yukti: Projects Clash* @ GL Bajaj
 
 ---
 
@@ -119,7 +130,7 @@
 
 ---
 
-### 🧾 Fun Fact
+### Fun Fact
 
 ```bash
 > I love blending design, logic, and AI into real-world applications 🚀
