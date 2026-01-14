@@ -16,6 +16,7 @@
 
 ### About Me
 
+- **DevOps Engineer - Paytm** Aug 2025-Present (Noida)
 - B.Tech (Hons.) in Computer Science & Engineering (AI & ML) @ *G.L. Bajaj Institute of Technology and Management, Greater Noida*  
 - CGPA: **8.2 (avg)** | Intermediate: **77%** | High School: **84%**
 - Skilled in **MERN stack, Firebase, Gemini AI, Python, C/C++, Java, SQL**
@@ -76,6 +77,14 @@
 </p>
 
 ### Experience
+
+**DevOps Engineer - Paytm**
+Aug 2025-Present (Noida)
+ - **Platforms :** AWS | Linux | Kubernetes | Redis | ELK Stack | OpenOps | Thanos
+ - **Tools :** Docker | Jenkins | Ansible | Terraform | Nginx  | Grafana | Prometheus  | Wireshark | Jira
+ - **Skills :** CICD Pipelining | Automation | Python Scripting | Shell Scripting | CLI Operations
+
+### Certificates
 
  - Cloud Computing Virtual Internship- **AWS**
  - AI-ML Virtual Internship – **Google for Developers**
