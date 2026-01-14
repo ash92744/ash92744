@@ -79,7 +79,7 @@
 ### Experience
 
 **DevOps Engineer - Paytm**
- - (Aug 2025-Present)
+(Aug 2025-Present)
  - **Platforms :** AWS | Linux | Kubernetes | Redis | ELK Stack | OpenOps | Thanos
  - **Tools :** Docker | Jenkins | Ansible | Terraform | Nginx  | Grafana | Prometheus  | Wireshark | Jira
  - **Skills :** CICD Pipelining | Automation | Python Scripting | Shell Scripting | CLI Operations
